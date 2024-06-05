@@ -1,4 +1,4 @@
-[![Awesome](https://github.com/arlenismailov/arlenismailov/blob/main/assets/%D0%93%D0%BE%D1%80%D1%8B7git.jpeg)]
+[![Awesome](https://github.com/arlenismailov/arlenismailov/blob/main/assets/%D0%B3%D0%B8%D1%84.gif)]
 Hi 👋 My name is Arlen Ismvilov
 ===============================
 
