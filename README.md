@@ -21,6 +21,7 @@ Hi 👋 My name is Arlen Ismvilov
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /> 
+      <img src="https://github.com/arlenismailov/arlenismailov/blob/main/assets/github-snake.svg"/>
     </picture> 
   </a>
 </p>
